@@ -1,0 +1,3 @@
+public enum MessageStatus {
+    QUEUED,IN_PROGRESS,COMPLETE,FAILED, FORCE_POPPED
+}

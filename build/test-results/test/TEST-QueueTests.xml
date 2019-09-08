@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueueTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-09-08T01:07:26" hostname="ABVR-TP-T470" time="0.006">
+  <properties/>
+  <testcase name="target" classname="QueueTests" time="0.003"/>
+  <testcase name="position" classname="QueueTests" time="0.003"/>
+  <system-out><![CDATA[Index: 0, Size: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
